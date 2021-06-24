@@ -1,6 +1,6 @@
 # videoLandingPage
 
-A simple landing page.
+A simple landing page using vanilla HTML, CSS and JavaScript. No libraries or frameworks.
 
 ## Features
 
