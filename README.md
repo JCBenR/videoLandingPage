@@ -4,10 +4,10 @@ A simple landing page using vanilla HTML, CSS and JavaScript. No libraries or fr
 
 ## Features
 
-- Video background
-- responsive design
-- menu (with JS open/close)
-- custom styling
+- [x] Video background
+- [x] responsive design
+- [x] menu (with JS open/close)
+- [x] custom styling
 
 
 ## to be implemented
@@ -15,3 +15,4 @@ A simple landing page using vanilla HTML, CSS and JavaScript. No libraries or fr
 - [ ] links don't work
 - [ ] more pages
 - [ ] needs favicon
+- [ ] updated font pairings
