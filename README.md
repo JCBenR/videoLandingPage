@@ -12,5 +12,6 @@ A simple landing page.
 
 ## to be implemented
 
-- links don't work
-- more pages
+- [ ] links don't work
+- [ ] more pages
+- [ ] needs favicon
